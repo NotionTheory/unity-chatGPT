@@ -20,7 +20,7 @@ The focus here is purely convenience in being able to access ChatGPT without lea
 
 
 ### Step 1: Login to your OpenAI account and copy your secret key
-To get started (once you have the plugin imported), you will first need to fetch your OpenAI API key, which can be found in your `User Settings` under `API Keys`. Here, you can create a new secret key and copy the value (you will use this secret key inside the Unity Editor).
+To get started (once you have the plugin imported), you will first need to fetch your OpenAI API key, which can be found in your account dropdown under `View API Keys` (or through [this direct link](https://platform.openai.com/account/api-keys)). Here, you can create a new secret key and copy the value (you will need to add your secret key inside the Unity Editor).
 
 ![](/images/openai-api-key-location.png)
 
