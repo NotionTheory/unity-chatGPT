@@ -1,7 +1,6 @@
 
-```
-Currently, this plugin is only suported on versions of Unity 2022.x and above
-```
+
+> Currently, this plugin is only suported on versions of Unity 2022.x and above
 
 # Installation
 
@@ -42,12 +41,9 @@ When you enter a prompt and send it, you will see a loading icon appear at the b
 
 When ChatGPT has completed a response, you will see it display in the output log above the prompt input.
 
-```
-Note that each time you send a prompt, a new chat request is sent to OpenAI. 
-What you see in the output log is a history of responses to the prompts you
-have sent. It is not a continuous conversation as you would experience in a
-single chat session within the ChatGPT application.
-```
+
+> Note that each time you send a prompt, a new chat request is sent to OpenAI. What you see in the output log is a history of responses to the prompts you have sent. It is not a continuous conversation as you would experience in a single chat session within the ChatGPT application.
+
 
 ![](/images/unity-chatgpt-output.png)
 
